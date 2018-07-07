@@ -1,4 +1,5 @@
 #!/usr/bin/env/ ruby
+
 require "./lib/group_exercise_class_schedule"
 
-GroupExerciseClassSchedule::CLI.new.call 
+GroupExerciseClassSchedule::CLI.new.call
