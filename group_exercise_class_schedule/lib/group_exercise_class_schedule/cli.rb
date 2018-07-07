@@ -1,3 +1,3 @@
 class GroupExerciseClassSchedule::CLI
-
+  
 end
